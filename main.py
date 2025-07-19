@@ -16,3 +16,5 @@ if __name__ == "__main__":
     # - For Django: django.setup()
     print("Application starting...")
     print("Replace this with your framework's startup code.") 
+    print("Replace this with your framework's startup code.") 
+    print("Replace this with your framework's startup code.") 
